@@ -20,7 +20,7 @@ Gem::Specification.new do |s|
   s.add_dependency('rails', '6.1.3')
   s.add_dependency('haml')
   s.add_dependency('sass')
-  s.add_dependency('formtastic', '~> 2.2.1') # 2.1 requries actionpack 3.0
+  s.add_dependency('formtastic', '~> 4.0') # 2.1 requries actionpack 3.0
   s.add_dependency('uuidtools', '~> 2.1')
   s.add_dependency('mustache', '~> 0.99')
   s.add_dependency('rabl', '~> 0.6')
